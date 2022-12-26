@@ -15,7 +15,7 @@ I write drivers for popular MCUs and do Electronics porjects for fun. If you'd l
 
 <h3> If you like the work I do or if my repos have helped or inspired you consider buying me a coffee 😊 </h3> 
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kunalsalvi)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kamal)
 
 <!---
 
