@@ -29,8 +29,8 @@ I write drivers for popular MCUs and do Electronics porjects on weekends. If you
 <!---
  ![linkedin (1)](https://user-images.githubusercontent.com/38166489/155270845-e73ac092-0bf2-4544-9d80-a8ea73caa90a.png) 
 --->
-<a href="https://www.linkedin.com/in/kunwar-nakul-singh-bhati/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>
-⭐ [LinkedIn](www.linkedin.com/in/babukamal) 
+<a href="https://www.linkedin.com/in/babukamal/" target="_blank"><img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30"></a>
+
 ⭐ [Instagram (Personal)](https://www.instagram.com/ziran_daruwala/) 
 ⭐ [Instagram (Professional)](https://www.instagram.com/blackshield_engineering/)
 ⭐ [GrabCAD](https://grabcad.com/kunal.salvi-2) ⭐ [Email Personal](kamal.gangwar@outlook.com)
