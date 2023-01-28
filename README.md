@@ -3,7 +3,7 @@
 </h1>
 <hr>
 <h3>
-I write drivers for popular MCUs and do Electronics porjects on weekends. If you'd like to colaborate or hire me for a project, just shoot an email at kamal.gangwar@outlook.com
+I write drivers for popular MCUs and do Electronics porjects on weekends. If you'd like to colaborate, just shoot an email at kamal.gangwar@outlook.com
 </h3>
 
 
